@@ -2,6 +2,7 @@ import asyncio
 import json
 import logging
 import os
+import threading
 import aiohttp
 import ssl
 import certifi
@@ -886,7 +887,7 @@ async def reset_bot_state(callback: CallbackQuery, state: FSMContext):
     
     welcome_text = (
         "👋 Привет! Я помощник по проверке и подбору тканей от Amigo, Cortin и Inter.\n\n"
-        "📦 Здесь ты можешь быстро находить ткани, проверять наличие на складе и рассчитывать себестоимость изделий.\n\n"
+        "📦 Здесь ты можешь быстро находить ткани, проверять наличие на складе.\n\n"
         "🔍 Выбирай нужный завод и запускай проверку!\n\n"
         "Нажми \"🚀 Начать\", чтобы приступить."
     )
@@ -2217,7 +2218,50 @@ async def inter_back_to_colors(callback: CallbackQuery, state: FSMContext):
     await callback.answer()
 
 if __name__ == "__main__":
+    from aiohttp import web
+    import threading
+    
+    # Простой HTTP сервер для health check
+    async def health_check(request):
+        return web.Response(text="Bot is running", status=200)
+    
+    def start_health_server():
+        import asyncio
+        
+        async def init_app():
+            app = web.Application()
+            app.router.add_get('/', health_check)
+            app.router.add_get('/health', health_check)
+            
+            # Получаем порт из переменной окружения или используем 8000 по умолчанию
+            port = int(os.environ.get('PORT', 8000))
+            
+            runner = web.AppRunner(app)
+            await runner.setup()
+            site = web.TCPSite(runner, '0.0.0.0', port)
+            await site.start()
+            print(f"Health server started on port {port}")
+            
+            # Держим сервер запущенным
+            while True:
+                await asyncio.sleep(3600)  # Спим час
+        
+        # Создаем новый event loop для потока
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+        try:
+            loop.run_until_complete(init_app())
+        except Exception as e:
+            print(f"Ошибка HTTP сервера: {e}")
+        finally:
+            loop.close()
+    
     async def main():
+        # Запускаем HTTP сервер в отдельном потоке только если установлена переменная PORT
+        if os.environ.get('PORT'):
+            health_thread = threading.Thread(target=start_health_server, daemon=True)
+            health_thread.start()
+        
         # Удаляем webhook перед запуском polling
         try:
             await bot.delete_webhook(drop_pending_updates=True)

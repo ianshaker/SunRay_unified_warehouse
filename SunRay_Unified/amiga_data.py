@@ -101,7 +101,9 @@ def make_absolute_url(image_url: str) -> str:
 def load_json_data(filename: str) -> Optional[Dict]:
     """Загружает данные из JSON файла"""
     try:
-        filepath = os.path.join("amiga_data", filename)
+        # Получаем абсолютный путь к директории скрипта
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        filepath = os.path.join(script_dir, "amiga_data", filename)
         if not os.path.exists(filepath):
             logger.warning(f"Файл {filepath} не найден")
             return None
@@ -115,7 +117,9 @@ def load_json_data(filename: str) -> Optional[Dict]:
 def load_plisse_data(model: str) -> Optional[Dict]:
     """Загружает данные плиссе для конкретной модели"""
     try:
-        filepath = os.path.join("amiga_data", "plisse", f"{model}.json")
+        # Получаем абсолютный путь к директории скрипта
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        filepath = os.path.join(script_dir, "amiga_data", "plisse", f"{model}.json")
         if not os.path.exists(filepath):
             logger.warning(f"Файл плиссе {filepath} не найден")
             return None
@@ -131,7 +135,9 @@ def load_plisse_data(model: str) -> Optional[Dict]:
 def load_gofre_data(model: str) -> Optional[Dict]:
     """Загружает данные гофре для конкретной модели"""
     try:
-        filepath = os.path.join("amiga_data", "gofre", f"{model}.json")
+        # Получаем абсолютный путь к директории скрипта
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        filepath = os.path.join(script_dir, "amiga_data", "gofre", f"{model}.json")
         if not os.path.exists(filepath):
             logger.warning(f"Файл гофре {filepath} не найден")
             return None

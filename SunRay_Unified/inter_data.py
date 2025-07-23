@@ -4,14 +4,16 @@
 """
 import json
 import logging
+import os
 from typing import Dict, List, Optional, Any, Tuple
 
 # Настройка логирования
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Путь к файлу каталога
-CATALOG_FILE = "catalog.json"
+# Получаем абсолютный путь к файлу каталога
+script_dir = os.path.dirname(os.path.abspath(__file__))
+CATALOG_FILE = os.path.join(script_dir, "catalog.json")
 
 # Список разрешенных типов штор для завода Inter
 ALLOWED_TYPES_INTER = [

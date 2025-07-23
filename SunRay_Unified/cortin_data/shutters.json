@@ -1,0 +1,220 @@
+[
+  {
+    "category": "Римская штора",
+    "items": [
+      {
+        "id": 2,
+        "name": "Римская штора - День-Ночь",
+        "shortName": "День-Ночь",
+        "image": "https://sale.cortin.ru/files/opt/2.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Римская штора - Для проёма",
+        "shortName": "Для проёма",
+        "image": "https://sale.cortin.ru/files/opt/4.jpg"
+      },
+      {
+        "id": 25,
+        "name": "Римская штора - Для створки",
+        "shortName": "Для створки",
+        "image": "https://sale.cortin.ru/files/opt/25.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Римская штора - Кассетная",
+        "shortName": "Кассетная",
+        "image": "https://sale.cortin.ru/files/opt/3.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Римская штора - На петлях",
+        "shortName": "На петлях",
+        "image": "https://sale.cortin.ru/files/opt/6.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Без категории",
+    "items": [
+      {
+        "id": 8,
+        "name": "Австрийская штора",
+        "shortName": "",
+        "image": "https://sale.cortin.ru/files/opt/8.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Прямые шторы",
+    "items": [
+      {
+        "id": 24,
+        "name": "Прямые шторы - На люверсах (1:2)",
+        "shortName": "На люверсах (1:2)",
+        "image": "https://sale.cortin.ru/files/opt/24.jpg"
+      },
+      {
+        "id": 37,
+        "name": "Прямые шторы - На петлях (1:2)",
+        "shortName": "На петлях (1:2)",
+        "image": "https://sale.cortin.ru/files/opt/37.jpg"
+      },
+      {
+        "id": 23,
+        "name": "Прямые шторы - На тесьме (1:2)",
+        "shortName": "На тесьме (1:2)",
+        "image": "https://sale.cortin.ru/files/opt/23.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Без категории",
+    "items": [
+      {
+        "id": 10,
+        "name": "Песочные часы",
+        "shortName": "",
+        "image": "https://sale.cortin.ru/files/opt/10.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Карниз",
+    "items": [
+      {
+        "id": 36,
+        "name": "Карниз - Система День-Ночь «Слинк»",
+        "shortName": "Система День-Ночь «Слинк»",
+        "image": "https://sale.cortin.ru/files/opt/36.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Карниз - Цепочно-роторный",
+        "shortName": "Цепочно-роторный",
+        "image": "https://sale.cortin.ru/files/opt/13.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Карниз - Цепочно-роторный «День-Ночь»",
+        "shortName": "Цепочно-роторный «День-Ночь»",
+        "image": "https://sale.cortin.ru/files/opt/14.jpg"
+      },
+      {
+        "id": 26,
+        "name": "Карниз - Цепочно-роторный «Мини»",
+        "shortName": "Цепочно-роторный «Мини»",
+        "image": "https://sale.cortin.ru/files/opt/26.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Текстиль",
+    "items": [
+      {
+        "id": 17,
+        "name": "Текстиль - Подушка",
+        "shortName": "Подушка",
+        "image": "https://sale.cortin.ru/files/opt/17.jpg"
+      },
+      {
+        "id": 22,
+        "name": "Текстиль - Ткань на отрез",
+        "shortName": "Ткань на отрез",
+        "image": "https://sale.cortin.ru/files/opt/22.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Товары для продажи",
+    "items": [
+      {
+        "id": 31,
+        "name": "Товары для продажи - Журнал",
+        "shortName": "Журнал",
+        "image": "https://sale.cortin.ru/files/opt/31.jpg"
+      },
+      {
+        "id": 29,
+        "name": "Товары для продажи - Комплект каталогов тканей",
+        "shortName": "Комплект каталогов тканей",
+        "image": "https://sale.cortin.ru/files/opt/29.jpg"
+      },
+      {
+        "id": 28,
+        "name": "Товары для продажи - Нарезка ткани",
+        "shortName": "Нарезка ткани",
+        "image": "https://sale.cortin.ru/files/opt/28.jpg"
+      },
+      {
+        "id": 33,
+        "name": "Товары для продажи - Образец карниза «Веревочный»",
+        "shortName": "Образец карниза «Веревочный»",
+        "image": "https://sale.cortin.ru/files/opt/33.jpg"
+      },
+      {
+        "id": 35,
+        "name": "Товары для продажи - Образец карниза «Цепочно-роторный МИНИ»",
+        "shortName": "Образец карниза «Цепочно-роторный МИНИ»",
+        "image": "https://sale.cortin.ru/files/opt/35.jpg"
+      },
+      {
+        "id": 34,
+        "name": "Товары для продажи - Образец карниза «Цепочно-роторный»",
+        "shortName": "Образец карниза «Цепочно-роторный»",
+        "image": "https://sale.cortin.ru/files/opt/34.jpg"
+      },
+      {
+        "id": 32,
+        "name": "Товары для продажи - Образцы тканей (до 10 шт.)",
+        "shortName": "Образцы тканей (до 10 шт.)",
+        "image": "https://sale.cortin.ru/files/opt/32.jpg"
+      },
+      {
+        "id": 30,
+        "name": "Товары для продажи - Сумка для каталогов",
+        "shortName": "Сумка для каталогов",
+        "image": "https://sale.cortin.ru/files/opt/30.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Готовые изделия",
+    "items": [
+      {
+        "id": 42,
+        "name": "Готовые изделия - Комплект прямых штор на люверсах",
+        "shortName": "Комплект прямых штор на люверсах",
+        "image": "https://sale.cortin.ru/files/opt/42.jpg"
+      },
+      {
+        "id": 41,
+        "name": "Готовые изделия - Комплект прямых штор на тесьме",
+        "shortName": "Комплект прямых штор на тесьме",
+        "image": "https://sale.cortin.ru/files/opt/41.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Автоматика",
+    "items": [
+      {
+        "id": 44,
+        "name": "Автоматика - HUB с Алисой",
+        "shortName": "HUB с Алисой",
+        "image": "https://sale.cortin.ru/files/opt/44.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Без категории",
+    "items": [
+      {
+        "id": 45,
+        "name": "Индивидуальный заказ",
+        "shortName": "",
+        "image": "https://sale.cortin.ru/files/opt/45.jpg"
+      }
+    ]
+  }
+]

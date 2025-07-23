@@ -1,0 +1,1139 @@
+{
+  "system_info": {
+    "id": 4,
+    "name": "Шторы плиссе",
+    "vendor_code": "plisse",
+    "image": "/storage-new/systems/plisse.png"
+  },
+  "models": [
+    {
+      "id": 15,
+      "name": "Модели MIDI",
+      "code_1c": "Плиссе Амиго",
+      "full_name": "СИСТЕМА DECOMATIC MIDI 22 ММ",
+      "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+      "series": [
+        {
+          "id": 1,
+          "name": "СЕРИЯ 16 ручка",
+          "description": "Вертикальные и откидные окна",
+          "image": "/storage-new/series/plisse/plisse_midi/plesse_midi_16.png",
+          "image_description": "/storage-new/series/plisse/plisse_midi/plesse_midi_16_description.png"
+        },
+        {
+          "id": 2,
+          "name": "СЕРИЯ 17 шнур",
+          "description": "Вертикальные и откидные окна",
+          "image": "/storage-new/series/plisse/plisse_midi/plesse_midi_17.png",
+          "image_description": "/storage-new/series/plisse/plisse_midi/plesse_midi_17_description.png"
+        },
+        {
+          "id": 3,
+          "name": "СЕРИЯ 18 цепь",
+          "description": "Вертикальные и откидные окна",
+          "image": "/storage-new/series/plisse/plisse_midi/plesse_midi_18.png",
+          "image_description": "/storage-new/series/plisse/plisse_midi/plesse_midi_18_description.png"
+        },
+        {
+          "id": 33,
+          "name": "СЕРИЯ 19 электропривод",
+          "description": "Вертикальные и откидные окна",
+          "image": "storage-new/series/plisse/plisse_midi/plesse_midi_19.png",
+          "image_description": "storage-new/series/plisse/plisse_midi/plesse_midi_19_description.png"
+        },
+        {
+          "id": 12,
+          "name": "СЕРИЯ 15 пружина",
+          "description": "Вертикальные и откидные окна",
+          "image": "/storage-new/series/plisse/plisse_midi/plesse_midi_15.png",
+          "image_description": "/storage-new/series/plisse/plisse_midi/plesse_midi_15_description.png"
+        },
+        {
+          "id": 14,
+          "name": "СЕРИЯ 10 Неподвижные формы",
+          "description": "Вертикальные и откидные окна",
+          "image": "/storage-new/series/plisse/plisse_midi/plesse_midi_10.png",
+          "image_description": "/storage-new/series/plisse/plisse_midi/_description.png"
+        },
+        {
+          "id": 16,
+          "name": "СЕРИЯ 26 Ручка",
+          "description": "Наклонные окна",
+          "image": "/storage-new/series/plisse/plisse_midi/plesse_midi_26.png",
+          "image_description": "/storage-new/series/plisse/plisse_midi/plesse_midi_26_description.png"
+        },
+        {
+          "id": 18,
+          "name": "СЕРИЯ 36 Ручка",
+          "description": "Потолочные окна и зимние сады",
+          "image": "/storage-new/series/plisse/plisse_midi/plesse_midi_36.png",
+          "image_description": "/storage-new/series/plisse/plisse_midi/plesse_midi_36_description.png"
+        },
+        {
+          "id": 20,
+          "name": "СЕРИЯ 37 Шнур",
+          "description": "Потолочные окна и зимние сады",
+          "image": "/storage-new/series/plisse/plisse_midi/plesse_midi_37.png",
+          "image_description": "/storage-new/series/plisse/plisse_midi/plesse_midi_37_description.png"
+        },
+        {
+          "id": 34,
+          "name": "СЕРИЯ 39 электропривод",
+          "description": "Потолочные окна и зимние сады",
+          "image": "storage-new/series/plisse/plisse_midi/plesse_midi_39.png",
+          "image_description": "storage-new/series/plisse/plisse_midi/plesse_midi_39_description.png"
+        }
+      ],
+      "sub_models": [
+        {
+          "id": 56,
+          "name": "P1600",
+          "code_1c": "00010829",
+          "model_serie_id": 1,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1600/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 58,
+          "name": "P1700",
+          "code_1c": "00010839",
+          "model_serie_id": 2,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1700/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 59,
+          "name": "P1800",
+          "code_1c": "00010850",
+          "model_serie_id": 3,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1800/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 73,
+          "name": "P1500",
+          "code_1c": "00016646",
+          "model_serie_id": 12,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1500/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 99,
+          "name": "P2600",
+          "code_1c": "00010859",
+          "model_serie_id": 16,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p2600/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 109,
+          "name": "P3600",
+          "code_1c": "00010862",
+          "model_serie_id": 18,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3600/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 111,
+          "name": "P3700",
+          "code_1c": "00012220",
+          "model_serie_id": 20,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3700/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 121,
+          "name": "P1001",
+          "code_1c": "00010854",
+          "model_serie_id": 14,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1001/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 229,
+          "name": "P1900",
+          "code_1c": "00010852",
+          "model_serie_id": 33,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1900/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 240,
+          "name": "P3900",
+          "code_1c": "00010870",
+          "model_serie_id": 34,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3900/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 242,
+          "name": "P3902",
+          "code_1c": "00010871",
+          "model_serie_id": 34,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3902/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 75,
+          "name": "P1602",
+          "code_1c": "00012057",
+          "model_serie_id": 1,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1602/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 79,
+          "name": "P1702",
+          "code_1c": "00012079",
+          "model_serie_id": 2,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1702/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 83,
+          "name": "P1802",
+          "code_1c": "00012258",
+          "model_serie_id": 3,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1802/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 101,
+          "name": "P2602",
+          "code_1c": "00012253",
+          "model_serie_id": 16,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p2602/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 167,
+          "name": "P1036",
+          "code_1c": "00012267",
+          "model_serie_id": 14,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1036/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 169,
+          "name": "P3630",
+          "code_1c": "00016138",
+          "model_serie_id": 18,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3630/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 232,
+          "name": "P1902",
+          "code_1c": "00012261",
+          "model_serie_id": 33,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1902/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 254,
+          "name": "P3930",
+          "code_1c": "00016140",
+          "model_serie_id": 34,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3930/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 76,
+          "name": "P1610",
+          "code_1c": "00012058",
+          "model_serie_id": 1,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1610/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 80,
+          "name": "P1705",
+          "code_1c": "00010840",
+          "model_serie_id": 2,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1705/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 84,
+          "name": "P1805",
+          "code_1c": "00010851",
+          "model_serie_id": 3,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1805/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 103,
+          "name": "P2610",
+          "code_1c": "00012254",
+          "model_serie_id": 16,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p2610/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 168,
+          "name": "P1037",
+          "code_1c": "00012268",
+          "model_serie_id": 14,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1037/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 172,
+          "name": "P3634",
+          "code_1c": "00010863",
+          "model_serie_id": 18,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3634/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 233,
+          "name": "P1905",
+          "code_1c": "00010853",
+          "model_serie_id": 33,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1905/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 255,
+          "name": "P3934",
+          "code_1c": "00020643",
+          "model_serie_id": 34,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3934/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 77,
+          "name": "P1612",
+          "code_1c": "00012059",
+          "model_serie_id": 1,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1612/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 97,
+          "name": "P1710",
+          "code_1c": "00010841",
+          "model_serie_id": 2,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1710/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 105,
+          "name": "P2612",
+          "code_1c": "00012255",
+          "model_serie_id": 16,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p2612/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 123,
+          "name": "P1043",
+          "code_1c": "00010855",
+          "model_serie_id": 14,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1043/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 180,
+          "name": "P1830",
+          "code_1c": "00015130",
+          "model_serie_id": 3,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1830/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 196,
+          "name": "P3635",
+          "code_1c": "00010864",
+          "model_serie_id": 18,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3635/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 238,
+          "name": "P1910",
+          "code_1c": "00015133",
+          "model_serie_id": 33,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1910/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 266,
+          "name": "P3935",
+          "code_1c": "00020644",
+          "model_serie_id": 34,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3935/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 57,
+          "name": "P1615",
+          "code_1c": "00010830",
+          "model_serie_id": 1,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1615/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 81,
+          "name": "P1712",
+          "code_1c": "00012080",
+          "model_serie_id": 2,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1712/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 107,
+          "name": "P2615",
+          "code_1c": "00010860",
+          "model_serie_id": 16,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p2615/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 124,
+          "name": "P1044",
+          "code_1c": "00010856",
+          "model_serie_id": 14,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1044/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 143,
+          "name": "P3636",
+          "code_1c": "00010865",
+          "model_serie_id": 18,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3636/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 195,
+          "name": "P1841",
+          "code_1c": "00015131",
+          "model_serie_id": 3,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1841/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 234,
+          "name": "P1912",
+          "code_1c": "00015136",
+          "model_serie_id": 33,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1912/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 250,
+          "name": "P3936",
+          "code_1c": "00020645",
+          "model_serie_id": 34,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3936/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 82,
+          "name": "P1715",
+          "code_1c": "00010842",
+          "model_serie_id": 2,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1715/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 125,
+          "name": "P1082",
+          "code_1c": "00010857",
+          "model_serie_id": 14,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1082/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 127,
+          "name": "P1620",
+          "code_1c": "00010831",
+          "model_serie_id": 1,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1620/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 140,
+          "name": "P2620",
+          "code_1c": "00010861",
+          "model_serie_id": 16,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p2620/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 175,
+          "name": "P3637",
+          "code_1c": "00010866",
+          "model_serie_id": 18,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3637/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 256,
+          "name": "P3937",
+          "code_1c": "00020646",
+          "model_serie_id": 34,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3937/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 226,
+          "name": "P1720",
+          "code_1c": "00010843",
+          "model_serie_id": 2,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1720/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 270,
+          "name": "P1920",
+          "code_1c": "00015140",
+          "model_serie_id": 33,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1920/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 128,
+          "name": "P1622",
+          "code_1c": "00012060",
+          "model_serie_id": 1,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1622/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 135,
+          "name": "P1722",
+          "code_1c": "00012081",
+          "model_serie_id": 2,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1722/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 141,
+          "name": "P2622",
+          "code_1c": "00012256",
+          "model_serie_id": 16,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p2622/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 144,
+          "name": "P3650",
+          "code_1c": "00010867",
+          "model_serie_id": 18,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3650/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 173,
+          "name": "P1083",
+          "code_1c": "00015154",
+          "model_serie_id": 14,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1083/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 248,
+          "name": "P1922",
+          "code_1c": "00015142",
+          "model_serie_id": 33,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1922/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 78,
+          "name": "P1626",
+          "code_1c": "00012061",
+          "model_serie_id": 1,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1626/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 126,
+          "name": "P1086",
+          "code_1c": "00010858",
+          "model_serie_id": 14,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1086/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 136,
+          "name": "P1725",
+          "code_1c": "00010844",
+          "model_serie_id": 2,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1725/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 142,
+          "name": "P2626",
+          "code_1c": "00012257",
+          "model_serie_id": 16,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p2626/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 178,
+          "name": "P3662",
+          "code_1c": "00010868",
+          "model_serie_id": 18,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3662/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 258,
+          "name": "P3962",
+          "code_1c": "00020653",
+          "model_serie_id": 34,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3962/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 130,
+          "name": "P1634",
+          "code_1c": "00010832",
+          "model_serie_id": 1,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1634/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 179,
+          "name": "P1730",
+          "code_1c": "00015115",
+          "model_serie_id": 2,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1730/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 197,
+          "name": "P3663",
+          "code_1c": "00010869",
+          "model_serie_id": 18,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3663/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 259,
+          "name": "P1930",
+          "code_1c": "00015146",
+          "model_serie_id": 33,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1930/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 267,
+          "name": "P3963",
+          "code_1c": "00020672",
+          "model_serie_id": 34,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p3963/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 137,
+          "name": "P1740",
+          "code_1c": "00010845",
+          "model_serie_id": 2,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1740/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 174,
+          "name": "P1635",
+          "code_1c": "00010833",
+          "model_serie_id": 1,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1635/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 249,
+          "name": "P1940",
+          "code_1c": "00015148",
+          "model_serie_id": 33,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1940/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 131,
+          "name": "P1636",
+          "code_1c": "00010834",
+          "model_serie_id": 1,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1636/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 176,
+          "name": "P1741",
+          "code_1c": "00010846",
+          "model_serie_id": 2,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1741/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 257,
+          "name": "P1941",
+          "code_1c": "00015150",
+          "model_serie_id": 33,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1941/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 170,
+          "name": "P1637",
+          "code_1c": "00010835",
+          "model_serie_id": 1,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1637/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 297,
+          "name": "P1950",
+          "code_1c": "00022427",
+          "model_serie_id": 33,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1950/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 132,
+          "name": "P1650",
+          "code_1c": "00010836",
+          "model_serie_id": 1,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1650/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 138,
+          "name": "P1751",
+          "code_1c": "00010848",
+          "model_serie_id": 2,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1751/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 133,
+          "name": "P1652",
+          "code_1c": "00012315",
+          "model_serie_id": 1,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1652/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 139,
+          "name": "P1753",
+          "code_1c": "00019960",
+          "model_serie_id": 2,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1753/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 134,
+          "name": "P1662",
+          "code_1c": "00010837",
+          "model_serie_id": 1,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1662/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 171,
+          "name": "P1663",
+          "code_1c": "00010838",
+          "model_serie_id": 1,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1663/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Модели MAXI",
+      "code_1c": "Плиссе 48 мм",
+      "full_name": "СИСТЕМА DECOMATIC MAXI 48 ММ",
+      "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани плиссе с шириной складки 32 мм.",
+      "series": [
+        {
+          "id": 4,
+          "name": "СЕРИЯ 87 шнур",
+          "description": "Вертикальные и откидные окна",
+          "image": "/storage-new/series/plisse/plisse_maxi/plesse_maxi_87.png",
+          "image_description": "/storage-new/series/plisse/plisse_maxi/plesse_maxi_87_description.png"
+        },
+        {
+          "id": 11,
+          "name": "СЕРИЯ 88 Цепь",
+          "description": "Вертикальные и откидные окна",
+          "image": "/storage-new/series/plisse/plisse_maxi/plesse_maxi_88.png",
+          "image_description": "/storage-new/series/plisse/plisse_maxi/plesse_maxi_88_description.png"
+        },
+        {
+          "id": 36,
+          "name": "СЕРИЯ 89 электропривод",
+          "description": "Вертикальные и откидные окна",
+          "image": "storage-new/series/plisse/plisse_maxi/plesse_maxi_89.png",
+          "image_description": "storage-new/series/plisse/plisse_maxi/plesse_maxi_89_description.png"
+        }
+      ],
+      "sub_models": [
+        {
+          "id": 54,
+          "name": "P8700",
+          "code_1c": "00018829",
+          "model_serie_id": 4,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани плиссе с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_maxi_p8700/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 55,
+          "name": "P8800",
+          "code_1c": "00018835",
+          "model_serie_id": 11,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани плиссе с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_maxi_p8800/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 228,
+          "name": "P8900",
+          "code_1c": "00018839",
+          "model_serie_id": 36,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани плиссе с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_maxi_p8900/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 113,
+          "name": "P8705",
+          "code_1c": "00018830",
+          "model_serie_id": 4,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани плиссе с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_maxi_p8705/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 177,
+          "name": "P8805",
+          "code_1c": "00018836",
+          "model_serie_id": 10,
+          "description": null,
+          "image_scheme": "/storage-new/models/plisse/plisse_maxi_p8805/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 244,
+          "name": "P8905",
+          "code_1c": "00018840",
+          "model_serie_id": 36,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани плиссе с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_maxi_p8905/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 115,
+          "name": "P8710",
+          "code_1c": "00018831",
+          "model_serie_id": 4,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани плиссе с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_maxi_p8710/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 246,
+          "name": "P8910",
+          "code_1c": "00018841",
+          "model_serie_id": 36,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани плиссе с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_maxi_p8910/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 119,
+          "name": "P8715",
+          "code_1c": "00018832",
+          "model_serie_id": 4,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани плиссе с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_maxi_p8715/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 313,
+          "name": "P8920",
+          "code_1c": "00020089",
+          "model_serie_id": 36,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани плиссе с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_maxi_p8920/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 309,
+          "name": "P8720",
+          "code_1c": "00018833",
+          "model_serie_id": 4,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани плиссе с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_maxi_p8720/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 311,
+          "name": "P8725",
+          "code_1c": "00018834",
+          "model_serie_id": 4,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани плиссе с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_maxi_p8725/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Модели MINI",
+      "code_1c": "Плиссе Амиго",
+      "full_name": "СИСТЕМА DECOMATIC MINI 16 ММ",
+      "description": "Компактные модели предназначены для установки в непосредственной близости от стекла. Можно использовать ткани плиссе с шириной складки 15 мм и 20 мм.",
+      "series": [
+        {
+          "id": 5,
+          "name": "СЕРИЯ 46",
+          "description": "Вертикальные и откидные окна",
+          "image": "/storage-new/series/plisse/plisse_mini/plesse_mini_46.png",
+          "image_description": "/storage-new/series/plisse/plisse_mini/plesse_mini_46_description.png"
+        }
+      ],
+      "sub_models": [
+        {
+          "id": 52,
+          "name": "P4612",
+          "code_1c": "00017477",
+          "model_serie_id": 5,
+          "description": "Компактные модели предназначены для установки в непосредственной близости от стекла. Можно использовать ткани плиссе с шириной складки 15 мм и 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_mini_p4612/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 53,
+          "name": "P4615",
+          "code_1c": "00017305",
+          "model_serie_id": 5,
+          "description": "Компактные модели предназначены для установки в непосредственной близости от стекла. Можно использовать ткани плиссе с шириной складки 15 мм и 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_mini_p4615/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "name": "Модели RUS",
+      "code_1c": "Плиссе Амиго RUS",
+      "full_name": "СИСТЕМА RUS 22 ММ",
+      "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+      "series": [
+        {
+          "id": 31,
+          "name": "СЕРИЯ RUS",
+          "description": "Вертикальные и откидные окна",
+          "image": "/storage-new/series/plisse/plisse_midi/plesse_midi_16.png",
+          "image_description": "/storage-new/series/plisse/plisse_midi/plesse_midi_16_description.png"
+        }
+      ],
+      "sub_models": [
+        {
+          "id": 223,
+          "name": "PR01",
+          "code_1c": "00022581",
+          "model_serie_id": 31,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1600/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 225,
+          "name": "PR02",
+          "code_1c": "00022582",
+          "model_serie_id": 31,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/plisse/plisse_midi_p1615/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        }
+      ]
+    }
+  ]
+}

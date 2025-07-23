@@ -1,0 +1,1101 @@
+{
+  "system_info": {
+    "id": 5,
+    "name": "Шторы гофре",
+    "vendor_code": "gofre",
+    "image": "/storage-new/systems/gofre.png"
+  },
+  "models": [
+    {
+      "id": 19,
+      "name": "Модели MIDI",
+      "code_1c": "Плиссе Амиго",
+      "full_name": "СИСТЕМА DECOMATIC MIDI 22 ММ",
+      "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей гофре с шириной складки 25 мм.",
+      "series": [
+        {
+          "id": 7,
+          "name": "СЕРИЯ 16 ручка",
+          "description": "Вертикальные и откидные окна",
+          "image": "/storage-new/series/gofre/gofre_midi/gofre_midi_16.png",
+          "image_description": "/storage-new/series/gofre/gofre_midi/gofre_midi_16_description.png"
+        },
+        {
+          "id": 8,
+          "name": "СЕРИЯ 17 шнур",
+          "description": "Вертикальные и откидные окна",
+          "image": "/storage-new/series/gofre/gofre_midi/gofre_midi_17.png",
+          "image_description": "/storage-new/series/gofre/gofre_midi/gofre_midi_17_description.png"
+        },
+        {
+          "id": 9,
+          "name": "СЕРИЯ 18 цепь",
+          "description": "Вертикальные и откидные окна",
+          "image": "/storage-new/series/gofre/gofre_midi/gofre_midi_18.png",
+          "image_description": "/storage-new/series/gofre/gofre_midi/gofre_midi_18_description.png"
+        },
+        {
+          "id": 38,
+          "name": "СЕРИЯ 19 электропривод",
+          "description": "Вертикальные и откидные окна",
+          "image": "storage-new/series/gofre/gofre_midi/gofre_midi_19.png",
+          "image_description": "storage-new/series/gofre/gofre_midi/gofre_midi_19_description.png"
+        },
+        {
+          "id": 13,
+          "name": "СЕРИЯ 15 пружина",
+          "description": "Вертикальные и откидные окна",
+          "image": "/storage-new/series/gofre/gofre_midi/gofre_midi_15.png",
+          "image_description": "/storage-new/series/gofre/gofre_midi/gofre_midi_15_description.png"
+        },
+        {
+          "id": 15,
+          "name": "СЕРИЯ 10 Неподвижные формы",
+          "description": "Вертикальные и откидные окна",
+          "image": "/storage-new/series/gofre/gofre_midi/.png",
+          "image_description": "/storage-new/series/gofre/gofre_midi/_description.png"
+        },
+        {
+          "id": 17,
+          "name": "СЕРИЯ 26 Ручка",
+          "description": "Наклонные окна",
+          "image": "/storage-new/series/gofre/gofre_midi/gofre_midi_26.png",
+          "image_description": "/storage-new/series/gofre/gofre_midi/gofre_midi_26_description.png"
+        },
+        {
+          "id": 19,
+          "name": "СЕРИЯ 36 Ручка",
+          "description": "Потолочные окна и зимние сады",
+          "image": "/storage-new/series/gofre/gofre_midi/gofre_midi_36.png",
+          "image_description": "/storage-new/series/gofre/gofre_midi/gofre_midi_36_description.png"
+        },
+        {
+          "id": 21,
+          "name": "СЕРИЯ 37 Шнур",
+          "description": "Потолочные окна и зимние сады",
+          "image": "/storage-new/series/gofre/gofre_midi/gofre_midi_37.png",
+          "image_description": "/storage-new/series/gofre/gofre_midi/gofre_midi_37_description.png"
+        },
+        {
+          "id": 35,
+          "name": "СЕРИЯ 39 электропривод",
+          "description": "Потолочные окна и зимние сады",
+          "image": "storage-new/series/gofre/gofre_midi/gofre_midi_39.png",
+          "image_description": "storage-new/series/gofre/gofre_midi/gofre_midi_39_description.png"
+        }
+      ],
+      "sub_models": [
+        {
+          "id": 62,
+          "name": "P1600",
+          "code_1c": "00010829",
+          "model_serie_id": 7,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1600/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 64,
+          "name": "P1700",
+          "code_1c": "00010839",
+          "model_serie_id": 8,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1700/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 65,
+          "name": "P1800",
+          "code_1c": "00010850",
+          "model_serie_id": 9,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1800/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 74,
+          "name": "P1500",
+          "code_1c": "00016646",
+          "model_serie_id": 13,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1500/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 100,
+          "name": "P2600",
+          "code_1c": "00010859",
+          "model_serie_id": 17,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей гофре с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p2600/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 110,
+          "name": "P3600",
+          "code_1c": "00010862",
+          "model_serie_id": 19,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей гофре с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3600/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 112,
+          "name": "P3700",
+          "code_1c": "00012220",
+          "model_serie_id": 21,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей гофре с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3700/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 122,
+          "name": "P1001",
+          "code_1c": "00010854",
+          "model_serie_id": 15,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей гофре с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1001/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 231,
+          "name": "P1900",
+          "code_1c": "00010852",
+          "model_serie_id": 38,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1900/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 241,
+          "name": "P3900",
+          "code_1c": "00010870",
+          "model_serie_id": 35,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей гофре с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3900/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 243,
+          "name": "P3902",
+          "code_1c": "00010871",
+          "model_serie_id": 35,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей гофре с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3902/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 85,
+          "name": "P1602",
+          "code_1c": "00012057",
+          "model_serie_id": 7,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1602/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 89,
+          "name": "P1702",
+          "code_1c": "00012079",
+          "model_serie_id": 8,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1702/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 93,
+          "name": "P1802",
+          "code_1c": "00012258",
+          "model_serie_id": 9,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1802/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 102,
+          "name": "P2602",
+          "code_1c": "00012253",
+          "model_serie_id": 17,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей гофре с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p2602/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 181,
+          "name": "P1036",
+          "code_1c": "00012267",
+          "model_serie_id": 15,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1036/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 183,
+          "name": "P3630",
+          "code_1c": "00016138",
+          "model_serie_id": 19,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3630/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 235,
+          "name": "P1902",
+          "code_1c": "00012261",
+          "model_serie_id": 38,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1902/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 260,
+          "name": "P3930",
+          "code_1c": "00016140",
+          "model_serie_id": 35,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3930/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 86,
+          "name": "P1610",
+          "code_1c": "00012058",
+          "model_serie_id": 7,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1610/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 90,
+          "name": "P1705",
+          "code_1c": "00010840",
+          "model_serie_id": 8,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1705/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 94,
+          "name": "P1805",
+          "code_1c": "00010851",
+          "model_serie_id": 9,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1805/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 104,
+          "name": "P2610",
+          "code_1c": "00012254",
+          "model_serie_id": 17,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей гофре с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p2610/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 182,
+          "name": "P1037",
+          "code_1c": "00012268",
+          "model_serie_id": 15,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1037/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 186,
+          "name": "P3634",
+          "code_1c": "00010863",
+          "model_serie_id": 19,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3634/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 236,
+          "name": "P1905",
+          "code_1c": "00010853",
+          "model_serie_id": 38,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1905/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 261,
+          "name": "P3934",
+          "code_1c": "00020643",
+          "model_serie_id": 35,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3934/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 87,
+          "name": "P1612",
+          "code_1c": "00012059",
+          "model_serie_id": 7,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1612/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 98,
+          "name": "P1710",
+          "code_1c": "00010841",
+          "model_serie_id": 8,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей гофре с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1710/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 106,
+          "name": "P2612",
+          "code_1c": "00012255",
+          "model_serie_id": 17,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей гофре с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p2612/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 145,
+          "name": "P1043",
+          "code_1c": "00010855",
+          "model_serie_id": 15,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1043/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 194,
+          "name": "P1830",
+          "code_1c": "00015130",
+          "model_serie_id": 9,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1830/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 199,
+          "name": "P3635",
+          "code_1c": "00010864",
+          "model_serie_id": 19,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3635/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 239,
+          "name": "P1910",
+          "code_1c": "00015133",
+          "model_serie_id": 38,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей гофре с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1910/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 268,
+          "name": "P3935",
+          "code_1c": "00020644",
+          "model_serie_id": 35,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3935/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 63,
+          "name": "P1615",
+          "code_1c": "00010830",
+          "model_serie_id": 7,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1615/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 91,
+          "name": "P1712",
+          "code_1c": "00012080",
+          "model_serie_id": 8,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1712/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 108,
+          "name": "P2615",
+          "code_1c": "00010860",
+          "model_serie_id": 17,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей гофре с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p2615/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 146,
+          "name": "P1044",
+          "code_1c": "00010856",
+          "model_serie_id": 15,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1044/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 165,
+          "name": "P3636",
+          "code_1c": "00010865",
+          "model_serie_id": 19,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3636/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 198,
+          "name": "P1841",
+          "code_1c": "00015131",
+          "model_serie_id": 9,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1841/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 237,
+          "name": "P1912",
+          "code_1c": "00015136",
+          "model_serie_id": 38,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1912/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 253,
+          "name": "P3936",
+          "code_1c": "00020645",
+          "model_serie_id": 35,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3936/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 92,
+          "name": "P1715",
+          "code_1c": "00010842",
+          "model_serie_id": 8,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1715/scheme.png",
+          "window_state": "openedX",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 147,
+          "name": "P1082",
+          "code_1c": "00010857",
+          "model_serie_id": 15,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1082/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 149,
+          "name": "P1620",
+          "code_1c": "00010831",
+          "model_serie_id": 7,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1620/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 162,
+          "name": "P2620",
+          "code_1c": "00010861",
+          "model_serie_id": 17,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p2620/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 189,
+          "name": "P3637",
+          "code_1c": "00010866",
+          "model_serie_id": 19,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3637/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 262,
+          "name": "P3937",
+          "code_1c": "00020646",
+          "model_serie_id": 35,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3937/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 227,
+          "name": "P1720",
+          "code_1c": "00010843",
+          "model_serie_id": 8,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1720/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 271,
+          "name": "P1920",
+          "code_1c": "00015140",
+          "model_serie_id": 38,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1920/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 150,
+          "name": "P1622",
+          "code_1c": "00012060",
+          "model_serie_id": 7,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1622/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 157,
+          "name": "P1722",
+          "code_1c": "00012081",
+          "model_serie_id": 8,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1722/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 163,
+          "name": "P2622",
+          "code_1c": "00012256",
+          "model_serie_id": 17,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p2622/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 166,
+          "name": "P3650",
+          "code_1c": "00010867",
+          "model_serie_id": 19,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3650/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 187,
+          "name": "P1083",
+          "code_1c": "00015154",
+          "model_serie_id": 15,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1083/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 251,
+          "name": "P1922",
+          "code_1c": "00015142",
+          "model_serie_id": 38,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1922/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 88,
+          "name": "P1626",
+          "code_1c": "00012061",
+          "model_serie_id": 7,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1626/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 148,
+          "name": "P1086",
+          "code_1c": "00010858",
+          "model_serie_id": 15,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1086/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 158,
+          "name": "P1725",
+          "code_1c": "00010844",
+          "model_serie_id": 8,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1725/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 164,
+          "name": "P2626",
+          "code_1c": "00012257",
+          "model_serie_id": 17,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p2626/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 192,
+          "name": "P3662",
+          "code_1c": "00010868",
+          "model_serie_id": 19,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3662/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 264,
+          "name": "P3962",
+          "code_1c": "00020653",
+          "model_serie_id": 35,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3962/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 152,
+          "name": "P1634",
+          "code_1c": "00010832",
+          "model_serie_id": 7,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1634/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 193,
+          "name": "P1730",
+          "code_1c": "00015115",
+          "model_serie_id": 8,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1730/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 200,
+          "name": "P3663",
+          "code_1c": "00010869",
+          "model_serie_id": 19,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3663/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 265,
+          "name": "P1930",
+          "code_1c": "00015146",
+          "model_serie_id": 38,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1930/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 269,
+          "name": "P3963",
+          "code_1c": "00020672",
+          "model_serie_id": 35,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p3963/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 159,
+          "name": "P1740",
+          "code_1c": "00010845",
+          "model_serie_id": 8,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1740/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 188,
+          "name": "P1635",
+          "code_1c": "00010833",
+          "model_serie_id": 7,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1635/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 252,
+          "name": "P1940",
+          "code_1c": "00015148",
+          "model_serie_id": 38,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1940/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 153,
+          "name": "P1636",
+          "code_1c": "00010834",
+          "model_serie_id": 7,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1636/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 190,
+          "name": "P1741",
+          "code_1c": "00010846",
+          "model_serie_id": 8,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1741/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 263,
+          "name": "P1941",
+          "code_1c": "00015150",
+          "model_serie_id": 38,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1941/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 184,
+          "name": "P1637",
+          "code_1c": "00010835",
+          "model_serie_id": 7,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1637/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 298,
+          "name": "P1950",
+          "code_1c": "00022427",
+          "model_serie_id": 38,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1950/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 154,
+          "name": "P1650",
+          "code_1c": "00010836",
+          "model_serie_id": 7,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1650/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 160,
+          "name": "P1751",
+          "code_1c": "00010848",
+          "model_serie_id": 8,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1751/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 155,
+          "name": "P1652",
+          "code_1c": "00012315",
+          "model_serie_id": 7,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1652/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 161,
+          "name": "P1753",
+          "code_1c": "00019960",
+          "model_serie_id": 8,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1753/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 156,
+          "name": "P1662",
+          "code_1c": "00010837",
+          "model_serie_id": 7,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1662/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 185,
+          "name": "P1663",
+          "code_1c": "00010838",
+          "model_serie_id": 7,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1663/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 1
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Модели MAXI",
+      "code_1c": "Плиссе 48 мм",
+      "full_name": "СИСТЕМА DECOMATIC MAXI 48 ММ",
+      "description": "Предназначены для оформления средних, больших и очень больших проёмов. Геометрию полотна задают ткани гофре 45 мм.",
+      "series": [
+        {
+          "id": 6,
+          "name": "СЕРИЯ 87 шнур",
+          "description": "Вертикальные и откидные окна",
+          "image": "/storage-new/series/gofre/gofre_maxi/gofre_maxi_87.png",
+          "image_description": "/storage-new/series/gofre/gofre_maxi/gofre_maxi_87_description.png"
+        },
+        {
+          "id": 10,
+          "name": "СЕРИЯ 88 Цепь",
+          "description": "Вертикальные и откидные окна",
+          "image": "/storage-new/series/gofre/gofre_maxi/gofre_maxi_88.png",
+          "image_description": "/storage-new/series/gofre/gofre_maxi/gofre_maxi_88_description.png"
+        },
+        {
+          "id": 37,
+          "name": "СЕРИЯ 89 электропривод",
+          "description": "Вертикальные и откидные окна",
+          "image": "storage-new/series/gofre/gofre_maxi/gofre_maxi_89.png",
+          "image_description": "storage-new/series/gofre/gofre_maxi/gofre_maxi_89_description.png"
+        }
+      ],
+      "sub_models": [
+        {
+          "id": 60,
+          "name": "P8700",
+          "code_1c": "00018829",
+          "model_serie_id": 6,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани плиссе с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_maxi_p8700/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 61,
+          "name": "P8800",
+          "code_1c": "00018835",
+          "model_serie_id": 10,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани плиссе с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_maxi_p8800/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 230,
+          "name": "P8900",
+          "code_1c": "00018839",
+          "model_serie_id": 37,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани плиссе с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_maxi_p8900/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 114,
+          "name": "P8705",
+          "code_1c": "00018830",
+          "model_serie_id": 6,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани гофре с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_maxi_p8705/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 191,
+          "name": "P8805",
+          "code_1c": "00018836",
+          "model_serie_id": 11,
+          "description": null,
+          "image_scheme": "/storage-new/models/gofre/gofre_maxi_p8805/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 245,
+          "name": "P8905",
+          "code_1c": "00018840",
+          "model_serie_id": 37,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани гофре с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_maxi_p8905/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 116,
+          "name": "P8710",
+          "code_1c": "00018831",
+          "model_serie_id": 6,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани гофре с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_maxi_p8710/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 247,
+          "name": "P8910",
+          "code_1c": "00018841",
+          "model_serie_id": 37,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани гофре с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_maxi_p8910/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 120,
+          "name": "P8715",
+          "code_1c": "00018832",
+          "model_serie_id": 6,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани гофре с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_maxi_p8715/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 314,
+          "name": "P8920",
+          "code_1c": "00020089",
+          "model_serie_id": 37,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани плиссе с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_maxi_p8920/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 310,
+          "name": "P8720",
+          "code_1c": "00018833",
+          "model_serie_id": 6,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани гофре с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_maxi_p8720/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        },
+        {
+          "id": 312,
+          "name": "P8725",
+          "code_1c": "00018834",
+          "model_serie_id": 6,
+          "description": "Предназначены для оформления средних и больших оконных проёмов. Геометрию полотна задают ткани гофре с шириной складки 32 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_maxi_p8725/scheme.png",
+          "window_state": "closed",
+          "is_different_from_actual": 1
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "name": "Модели RUS",
+      "code_1c": "Гофре Амиго RUS",
+      "full_name": "СИСТЕМА RUS 22 ММ",
+      "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей гофре с шириной складки 25 мм.",
+      "series": [
+        {
+          "id": 32,
+          "name": "СЕРИЯ RUS",
+          "description": "Вертикальные и откидные окна",
+          "image": "/storage-new/series/gofre/gofre_midi/gofre_midi_16.png",
+          "image_description": "/storage-new/series/gofre/gofre_midi/gofre_midi_16_description.png"
+        }
+      ],
+      "sub_models": [
+        {
+          "id": 222,
+          "name": "PR01",
+          "code_1c": "00022581",
+          "model_serie_id": 32,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1600/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        },
+        {
+          "id": 224,
+          "name": "PR02",
+          "code_1c": "00022582",
+          "model_serie_id": 32,
+          "description": "Универсальные модели для пластиковых окон и оформления небольших проёмов. Самый большой выбор тканей плиссе с шириной складки 20 мм.",
+          "image_scheme": "/storage-new/models/gofre/gofre_midi_p1615/scheme.png",
+          "window_state": "openedY",
+          "is_different_from_actual": 0
+        }
+      ]
+    }
+  ]
+}

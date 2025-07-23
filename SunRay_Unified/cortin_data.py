@@ -1,4 +1,5 @@
 import json
+import os
 import aiohttp
 import ssl
 import certifi
@@ -12,10 +13,13 @@ import re
 def load_cortin_data():
     """Загружает данные о шторах и материалах Cortin"""
     try:
-        with open("cortin_data/shutters.json", "r", encoding="utf-8") as f:
+        # Получаем абсолютный путь к директории скрипта
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        
+        with open(os.path.join(script_dir, "cortin_data", "shutters.json"), "r", encoding="utf-8") as f:
             shutters = json.load(f)
         
-        with open("cortin_data/grouped_materials.json", "r", encoding="utf-8") as f:
+        with open(os.path.join(script_dir, "cortin_data", "grouped_materials.json"), "r", encoding="utf-8") as f:
             materials = json.load(f)
             
         return shutters, materials
@@ -180,7 +184,9 @@ def find_variant_by_id(variant_id):
     """Находит вариант полотна по ID в grouped_materials.json"""
     try:
         variant_id = int(variant_id)
-        with open('cortin_data/grouped_materials.json', 'r', encoding='utf-8') as f:
+        # Получаем абсолютный путь к директории скрипта
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        with open(os.path.join(script_dir, 'cortin_data', 'grouped_materials.json'), 'r', encoding='utf-8') as f:
             data = json.load(f)
         
         # data это массив объектов, каждый с полями fabric и variants
